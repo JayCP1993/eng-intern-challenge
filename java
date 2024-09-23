@@ -1,5 +1,5 @@
 import java.util.HashMap;
-
+ 
 /**
  * This class provides methods to translate between Braille and English.
  * It supports the full English alphabet, capital letters, spaces, and digits 0-9.
